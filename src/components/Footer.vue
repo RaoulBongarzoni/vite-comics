@@ -1,10 +1,12 @@
 <script>
 import my_buyBar from "./BlueBar.vue"
 import my_jumbo_footer from "./FooterJumbo.vue"
+import my_links from "./FooterNav.vue"
 export default {
     components: {
         my_buyBar,
-        my_jumbo_footer
+        my_jumbo_footer,
+        my_links
     }
 
 
@@ -14,6 +16,7 @@ export default {
 <template>
     <my_buyBar />
     <my_jumbo_footer />
+    <my_links />
 </template>
 
 <style>
