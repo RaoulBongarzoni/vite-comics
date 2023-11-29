@@ -24,15 +24,4 @@ export default {
   <my_footer />
 </template>
 
-<style>
-.container {
-  height: 100%;
-  max-width: 900px;
-  display: flex;
-  justify-content: space-between;
-
-  margin: 0 auto;
-  align-items: center;
-
-}
-</style>
+<style></style>

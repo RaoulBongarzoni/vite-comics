@@ -14,4 +14,15 @@
     background-color: #222;
     height: 100px;
 }
+
+.container {
+
+    height: 100%;
+    max-width: 900px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    align-items: center;
+
+}
 </style>

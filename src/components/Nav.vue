@@ -71,7 +71,7 @@ export default {
     height: 4rem;
 }
 
-/* .container {
+.container {
     height: 100%;
     max-width: 900px;
     display: flex;
@@ -81,7 +81,7 @@ export default {
     align-items: center;
 
 }
- */
+
 img {
     height: 100%;
     padding: 1rem;
@@ -91,6 +91,9 @@ a {
     text-decoration: none;
     margin: 0 1rem;
     color: #222;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: x-small;
 
 }
 </style>
