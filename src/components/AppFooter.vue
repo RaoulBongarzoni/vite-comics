@@ -1,7 +1,8 @@
 <script>
 import my_buyBar from "./BlueBar.vue"
-import my_jumbo_footer from "./FooterJumbo.vue"
-import my_links from "./FooterNav.vue"
+import my_jumbo_footer from "./Footer_Jumbo.vue"
+import my_links from "./Footer_Bottom.vue"
+
 export default {
     components: {
         my_buyBar,

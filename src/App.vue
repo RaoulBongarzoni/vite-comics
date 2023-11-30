@@ -1,12 +1,15 @@
 <script>
 import my_nav from "./components/Nav.vue"
 import my_main from "./components/MainContent.vue"
-import my_footer from "./components/Footer.vue"
+import my_footer from "./components/AppFooter.vue"
+
 export default {
 
   components: {
 
     my_nav,
+
+
     my_main,
     my_footer
   }
@@ -18,6 +21,8 @@ export default {
 
 <template>
   <my_nav />
+
+
 
   <my_main />
 

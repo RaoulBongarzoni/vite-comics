@@ -6,17 +6,17 @@ export default {
 
             socialLinks: [
 
-                {
-                    name: "Facebook",
-                    img: "/images/footer-facebook.png",
-                    href: "#"
-
-                },
-                {
-                    name: "Twitter",
-                    img: "/images/footer-twitter.png",
-                    href: "#"
-                },
+                /*                 {
+                                    name: "Facebook",
+                                    img: "/images/footer-facebook.png",
+                                    href: "#"
+                
+                                },
+                                {
+                                    name: "Twitter",
+                                    img: "/images/footer-twitter.png",
+                                    href: "#"
+                                }, */
                 {
                     name: "Youtube",
                     img: "/images/footer-youtube.png",
